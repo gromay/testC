@@ -1,0 +1,12 @@
+" Custom vimrc 
+
+set nu
+
+"colorscheme wombat256
+highlight Normal guibg=black guifg=white
+set background=dark
+
+
+
+"highlight OverLength ctermbg=red ctermfg=white guibg=#592929
+"match OverLength /\%81v.\+/
